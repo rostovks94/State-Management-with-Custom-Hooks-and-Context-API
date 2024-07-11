@@ -26,3 +26,15 @@
 ├── package-lock.json
 ├── package.json
 └── README.md
+
+
+## product-inventory-app/
+|-- src/
+|   |-- components/
+|   |   |-- ProductList.jsx
+|   |   |-- NewProductForm.jsx
+|   |-- hooks/
+|   |   |-- useInventory.js
+|   |-- App.js
+|   |-- index.js
+|-- package.json
